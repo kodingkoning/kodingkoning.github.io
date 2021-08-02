@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.C.S. in Computer Science, Calvin University, 2020
+* Ph.D in Computer Science, University of Illinois Urbana-Champaign, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020-present: Research Assistant
+  * UIUC
+  * Supervised by Bill Gropp, Tandy Warnow, and Marc Snir
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2019: NSF REU Participant
+  * UC Berkeley
+  * Worked improving accuracy of software aligning long-read sequences
+  * Supervised by Aydin Buluc and Kathy Yelick
+
+* Summer 2018: Undergraduate Researcher
+  * ORNL
+  * Worked on parallelizing random forests for use on GPUs
+  * Supervised by Dan Jacobson
+
+* Summer 2017: Undergraduate Research Fellow
+  * Calvin College
+  * Worked on TSGL (Thread-Safe Graphics Library) and visualizations using the library for use as course materials
+  * Supervised by Joel Adams
 
 Publications
 ======
@@ -53,7 +52,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+# Service and leadership
+# ======
+# * Will add list later
