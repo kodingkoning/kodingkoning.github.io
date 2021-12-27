@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Since fall 2020, I have been a graduate student at UIUC. I am interested in parallel computing for computational biology. Before UIUC, I graduated from Calvin University in Grand Rapids, MI.
+Since Fall of 2020, I am a Ph.D. student at UIUC. I am interested in parallel computing for computational biology, and I am advised by Bill Gropp. Before UIUC, I graduated with a Bachelors in Computer Science from Calvin University in Grand Rapids, MI.
+
