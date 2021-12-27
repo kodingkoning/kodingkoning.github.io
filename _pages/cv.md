@@ -16,19 +16,19 @@ Education
 
 Work experience
 ======
-* Fall 2020-present: Research Assistant | UIUC
+* Fall 2020-present: Research Assistant \| UIUC
   * Advised by Bill Gropp
   * Fall 2020-Spring 2021 was also supervised by Tandy Warnow and Marc Snir
 
-* Summer 2019: NSF REU Participant | UC Berkeley
+* Summer 2019: NSF REU Participant \| UC Berkeley
   * Worked improving accuracy of software aligning long-read sequences
   * Supervised by Aydin Buluc and Kathy Yelick
 
-* Summer 2018: Undergraduate Researcher | ORNL
+* Summer 2018: Undergraduate Researcher \| ORNL
   * Worked on parallelizing random forests for use on GPUs
   * Supervised by Dan Jacobson
 
-* Summer 2017: Undergraduate Research Fellow | Calvin College
+* Summer 2017: Undergraduate Research Fellow \| Calvin College
   * Worked on TSGL (Thread-Safe Graphics Library) and visualizations using the library for use as course materials
   * Supervised by Joel Adams
 
