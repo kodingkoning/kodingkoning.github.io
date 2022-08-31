@@ -74,7 +74,7 @@ In thinking how to  visualize these images differently, I tried putting each bir
 
 This table shows the name in Lear’s book, and the current scientific name with a link to One Zoom’s listing for the bird. Two of these did not appear in the OneZoom tree. These have links to the Wikipedia pages.
 
-![Parrot Map](images/parrot_tree.png)
+![Parrot Map](../images/parrot_tree.png)
 
 This method of visualization takes a very different approach. Where the original book is mainly a list of beautiful birds, showing them in a tree format draws out their relationships. It also does not focus on a single image, but allows a reader to quickly flip through many images. I do not believe a tree format would be a “better” format, even than a collection of images of the pages of the books. However, I think it would tell a distinct story. Instead of focusing on the artistic representations of the parrots and the beauty of the birds themselves, it would focus on the scientific study of the birds, and their position in their environments. Painting of parrots could inspire awe in the viewer, but
 
