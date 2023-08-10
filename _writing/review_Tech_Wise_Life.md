@@ -4,7 +4,6 @@ excerpt: "Perspectives on Science and Christian Faith, June 2021."
 collection: writing
 ---
 
-<!DOCTYPE html>
 <html>
   <head>
     <meta http-equiv="Refresh" content="0; url='https://www.asa3.org/ASA/PSCF/2021/PSCF6-21BookReviews.pdf'" />

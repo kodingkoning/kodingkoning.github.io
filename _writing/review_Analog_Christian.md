@@ -4,7 +4,6 @@ excerpt: "The Banner, September 2022."
 collection: writing
 ---
 
-<!DOCTYPE html>
 <html>
   <head>
     <meta http-equiv="Refresh" content="0; url='https://www.thebanner.org/mixed-media/2022/09/analog-christian-cultivating-contentment-resilience-and-wisdom-in-the-digital'" />
