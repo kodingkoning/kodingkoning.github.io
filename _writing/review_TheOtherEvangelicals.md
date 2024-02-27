@@ -5,10 +5,9 @@ collection: writing
 ---
 
 <html>
+  <header>The Other Evangelicals</header>
   <h2>A Story of Liberal, Black, Progressive, Feminist, and Gay Christians – and the Movement that Pushed Them Out</h2>
-  <h3>by Isaac B. Sharp</h3>
-  <h3>Published by Eerdmans</h3>
-  <h3>Reviewed by Elizabeth Koning</h3>
+  <h3>by Isaac B. Sharp<br>Published by Eerdmans<br>Reviewed by Elizabeth Koning</h3>
   <body>
   <i>The Other Evangelicals</i> tells the story of the Evangelicals who had that label snatched away from them. In five chapters, focusing on the liberal, Black, progressive, feminist, and gay Evangelicals, it introduces the dissenters from within the evangelical church who asked to widen the definition of Evangelical. It presents a clear account of the last 150 years of Evangelicalism and addresses the complexity of the label. The figures are frequently inspiring and aggravating, depending on their alignment in each conflict.
   <br>
@@ -18,7 +17,7 @@ collection: writing
   <br>
   <i>The Other Evangelicals</i> is a story of church heritage for many people. The feminists including Virginia Ramey Mollenkott who fought for their place in church leadership beyond secretarial roles paved a way for women like me, even as the Evangelical church celebrated the masculine. Though by most definitions I’m not Evangelical, the distinguishing traits of modern evangelicalism had clear impacts in churches that formed me. I see the lines from <i>Christianity Today</i> and Focus on the Family to me. Now I can also see my heritage from <i>All We’re Meant to Be: A Biblical Approach to Women’s Liberation</i> and Ralph Blair’s Evangelicals Concerned organization. I hope that others will read <i>The Other Evangelicals</i> and trace their faith stories back to Tom Skinner, the Black Evangelical leader who came out of both the Baptist church and the Harlem Lords and then became one of the most nationally influential preachers. I hope others will see the ways the ideas of Ron Sider’s in <i>Rich Christians in an Age of Hunger</i> have made it into their own lives. Though these are the stories of the “losers” of the battle for the name Evangelical, they are leaders whose legacies continue.
   <br>
-  <i>The Other Evangelicals</i> picks up where <i>Jesus and John Wayne</i> leaves off. For anyone who wants to hear what happened to those who have been rejected by Evangelicalism or wonders what Evangelicalism has been over the last 150 years, <i>The Other Evangelicals</i> tells that story. (Eerdmans)
+  <i>The Other Evangelicals</i> picks up where <i>Jesus and John Wayne</i> leaves off. For anyone who wants to hear what happened to those who have been rejected by Evangelicalism or wonders what Evangelicalism has been over the last 150 years, <i>The Other Evangelicals</i> tells that story.
   </body>
 </html>
 
