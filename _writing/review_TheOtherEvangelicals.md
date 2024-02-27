@@ -5,7 +5,7 @@ collection: writing
 ---
 
 <html>
-  <header>The Other Evangelicals</header>
+  <h1>The Other Evangelicals</h1>
   <h2>A Story of Liberal, Black, Progressive, Feminist, and Gay Christians – and the Movement that Pushed Them Out</h2>
   <h3>by Isaac B. Sharp<br>Published by Eerdmans<br>Reviewed by Elizabeth Koning</h3>
   <body>
