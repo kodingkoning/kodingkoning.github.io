@@ -1,12 +1,11 @@
 ---
 title: "Book Review: The Other Evangelicals"
-excerpt: "Februrary 2024."
+excerpt: "April 2023."
 collection: writing
 ---
 
 <html>
-  <h1>The Other Evangelicals</h1>
-  <h2>A Story of Liberal, Black, Progressive, Feminist, and Gay Christians – and the Movement that Pushed Them Out</h2>
+  <h2>The Other Evangelicals: Story of Liberal, Black, Progressive, Feminist, and Gay Christians – and the Movement that Pushed Them Out</h2>
   <h3>by Isaac B. Sharp<br>Published by Eerdmans<br>Reviewed by Elizabeth Koning</h3>
   <body>
   <i>The Other Evangelicals</i> tells the story of the Evangelicals who had that label snatched away from them. In five chapters, focusing on the liberal, Black, progressive, feminist, and gay Evangelicals, it introduces the dissenters from within the evangelical church who asked to widen the definition of Evangelical. It presents a clear account of the last 150 years of Evangelicalism and addresses the complexity of the label. The figures are frequently inspiring and aggravating, depending on their alignment in each conflict.
